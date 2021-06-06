@@ -3,12 +3,12 @@
 # Leetcode 题解 - 二分查找
 
 - Leetcode 题解 - 二分查找
-  - [1. 求开方](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 二分查找.md#1-求开方)
-  - [2. 大于给定元素的最小元素](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 二分查找.md#2-大于给定元素的最小元素)
-  - [3. 有序数组的 Single Element](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 二分查找.md#3-有序数组的-single-element)
-  - [4. 第一个错误的版本](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 二分查找.md#4-第一个错误的版本)
-  - [5. 旋转数组的最小数字](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 二分查找.md#5-旋转数组的最小数字)
-  - [6. 查找区间](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode 题解 - 二分查找.md#6-查找区间)
+  - 1. 求开方
+  - 2. 大于给定元素的最小元素
+  - 3. 有序数组的 Single Element
+  - 4. 第一个错误的版本
+  - 5. 旋转数组的最小数字
+  - 6. 查找区间
 
 **正常实现**
 
@@ -97,7 +97,7 @@ l   m   h
 
 \69. Sqrt(x) (Easy)
 
-[Leetcode](https://leetcode.com/problems/sqrtx/description/) / [力扣](https://leetcode-cn.com/problems/sqrtx/description/)
+Leetcode / [力扣](https://leetcode-cn.com/problems/sqrtx/description/)
 
 ```
 Input: 4
@@ -135,7 +135,9 @@ public int mySqrt(int x) {
 
 ## 2. 大于给定元素的最小元素
 
-\744. Find Smallest Letter Greater Than Target (Easy)
+\744. Find Smallest Letter G
+
+reater Than Target (Easy)
 
 [Leetcode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) / [力扣](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/description/)
 
